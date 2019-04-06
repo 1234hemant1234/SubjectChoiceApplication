@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SubjectChoiceApplication</string>
+    <string-array name="Course">
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>BBA</item>
+        <item>BCA</item>
+        <item>M.tech</item>
+        <item>B.Tech</item>
+    </string-array>
+    <string-array name="Sem">
+        <item>i</item>
+        <item>ii</item>
+        <item>iii</item>
+        <item>iv</item>
+        <item>v</item>
+        <item>vi</item>
+        <item>vii</item>
+        <item>viii</item>
+    </string-array>
+    <string-array name="Subject">
+        <item>MIS</item>
+        <item>MAD</item>
+        <item>IRS</item>
+        <item>Cloud computing</item>
+
+
+
+
+    </string-array>
+
+
+</resources>
